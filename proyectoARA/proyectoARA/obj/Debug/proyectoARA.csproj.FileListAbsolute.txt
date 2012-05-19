@@ -1,0 +1,5 @@
+C:\Users\Alexander\Desktop\ProyectoARA\proyectoARA\proyectoARA\bin\proyectoARA.dll
+C:\Users\Alexander\Desktop\ProyectoARA\proyectoARA\proyectoARA\bin\proyectoARA.pdb
+C:\Users\Alexander\Desktop\ProyectoARA\proyectoARA\proyectoARA\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Alexander\Desktop\ProyectoARA\proyectoARA\proyectoARA\obj\Debug\proyectoARA.dll
+C:\Users\Alexander\Desktop\ProyectoARA\proyectoARA\proyectoARA\obj\Debug\proyectoARA.pdb
